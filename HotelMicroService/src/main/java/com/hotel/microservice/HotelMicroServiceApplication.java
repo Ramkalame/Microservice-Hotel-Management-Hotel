@@ -1,13 +1,13 @@
-package com.order.microservice;
+package com.hotel.microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OrderMicroServiceApplication {
+public class HotelMicroServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OrderMicroServiceApplication.class, args);
+		SpringApplication.run(HotelMicroServiceApplication.class, args);
 	}
 
 }
